@@ -1,0 +1,12 @@
+{
+  mcp: {
+    servers: {
+      weavz: {
+        url: "https://platform.weavz.io/mcp/weavz",
+        transport: "streamable-http",
+        auth: "oauth",
+        enabled: true,
+      },
+    },
+  },
+}
